@@ -3,11 +3,11 @@
 # 🌸 ✨ Konnichiwa! Bem-vindo(a) ao meu Recanto ✨ 🌸
 
 ### ₍ᐢ.ˬ.ᐢ₎ <i>"Puer Reductionis Terminorum"</i> 🎀
-<b>✧*:･ﾟ Ens, Ratio & Stochastics in a Kawaii Universe ✧*:･ﾟ</b>
+<b>✧*:･ﾟ Ens, Ratio, Lullism & Stochastics in a Kawaii Universe ✧*:･ﾟ</b>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Puer+Reductionis+Terminorum+%E2%9C%A7;Graduando+em+Matem%C3%A1tica+Aplicada+e+Computacional;Chartered+Financial+Analyst+(CFA)+%7C+Risco+Quantitativo;Filosofia+Escol%C3%A1stica+%26+Ontologia+Contempor%C3%A2nea;Engenharia+de+Modelos%2C+OCR+%26+Bancos+de+Dados;Hardcore+Quant+%2B+Anime+Aesthetic+%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Puer+Reductionis+Terminorum+%E2%9C%A7;Graduando+em+Matem%C3%A1tica+Aplicada+e+Computacional;Chartered+Financial+Analyst+(CFA)+%7C+Risco+Quantitativo;Filosofia+Escol%C3%A1stica%2C+Lulismo+%26+Ontologia;Engenharia+de+Modelos%2C+OCR+%26+Bancos+de+Dados;Hardcore+Quant+%2B+Anime+Aesthetic+%E2%99%A1)](https://git.io/typing-svg)
 
 ---
 
@@ -15,13 +15,61 @@
 
 </div>
 
-Olá! Sou o **Bói** (conhecido como *Puer Reductionis Terminorum*). Uno a **Filosofia Escolástica** e a **Matemática Aplicada** com a engenharia de dados moderna — tudo isso embalado com uma estética bem fofa e aconchegante! (｡♥‿♥｡)
+Olá! Sou o **Bói** (conhecido como *Puer Reductionis Terminorum*). Uno a **Filosofia Escolástica & Luliana** e a **Matemática Aplicada** com a engenharia de dados moderna e o mercado financeiro — tudo isso embalado com uma estética bem fofa e aconchegante! (｡♥‿♥｡)
 
-* 🏛️ **Filosofia Escolástica & Contemporânea:** Pesquisa profunda em ontologia formal, lógica dos termos, semântica medieval e redução categorial.
+* 🏛️ **Filosofia Escolástica, Lulismo & Ontologia Formal:** Pesquisa na tradição luliana (*Ars Magna*), combinatória conceitual, metafísica escolástica e ontologias fundamentais contemporâneas.
 * 🎓 **Matemática Aplicada & Computacional:** Foco em cálculo estocástico, equações diferenciais, otimização e métodos numéricos.
 * 📈 **Mercado Financeiro & CFA:** Desenvolvimento de modelos de gerenciamento de risco (VaR, estresse, volatilidade), precificação de derivativos e estratégias quantitativas.
-* 🧠 **Engenharia & Inteligência de Dados:** Construção de pipelines de extração em larga escala com **OCR**, estruturação de dados em alta dimensão e bancos de dados otimizados.
+* 🧠 **Engenharia & Inteligência de Dados:** Construção de pipelines de extração em larga escala com **OCR**, estruturação de dados em alta dimensão e bancos de dados relacionais e analíticos.
 * 🍡 **Vibe:** Garotas de anime, café quentinho, demonstrações formais em Haskell e muito amor por teoremas rigorosos! ฅ^•ﻌ•^ฅ
+
+---
+
+<div align="center">
+
+### 📜 🌸 *Matriz Intelectual, Ontologia & Tradição Luliana* 🌸 📜
+
+<p>
+  <i>"Deus est forma essendi... e a combinação universal dos termos desvela a estrutura do ser."</i> ✧*:･ﾟ
+</p>
+
+</div>
+
+Minha base filosófica e de pesquisa ontológica formal se ancora nos grandes mestres do pensamento combinatório, metafísico e sistêmico:
+
+* 🌌 **Raimundo Lúlio (Ramon Llull):** O *Doctor Illuminatus*. Criador da *Ars Magna*, pai supremo da combinatória formal, da mecanização do pensamento e pioneiro medieval da computação e ontologia.
+* ⚙️ **Juan Caramuel y Lobkowitz:** O polímata do barroco. Mestre da *Mathesis Biceps*, da lógica oblíqua, combinatória arquitetônica e precursor visionário da aritmética binária.
+* 📜 **Francisco Suárez:** O *Doctor Eximius*. Maior metafísico da segunda escolástica de Salamanca e Coimbra; arquiteto sistemático das *Disputationes Metaphysicae*.
+* 🏛️ **Athanasius Kircher:** O gênio jesuíta enciclopedista. Autor da monumental *Ars Magna Sciendi*, cosmologia barroca e máquinas conceituais universais.
+* 🧩 **Giancarlo Guizzardi & Gerd Wagner:** Referências fundamentais em ontologia formal aplicada; criadores da **UFO (Unified Foundational Ontology)** e do **OntoUML**, conectando metafísica rigorosa com engenharia de software e modelagem conceitual de dados.
+* 🤖 **Douglas Lenat:** O visionário pioneiro do **Projeto Cyc**, desbravador da formalização ontológica do senso comum e da representação do conhecimento em Inteligência Artificial.
+
+<br/>
+
+<details>
+<summary><b>🎀 📜 Clique para expandir a Grande Linhagem Luliana & Mestres da Combinatória 📜 🎀</b></summary>
+<br/>
+
+> 🌸 *Pensadores que investigaram a combinatória, os círculos lulianos e a síntese universal do conhecimento:*
+
+| Pensador | Obra / Marco Principal | Foco & Tradição |
+| :--- | :--- | :--- |
+| **Gottfried Wilhelm Leibniz** | *De Arte Combinatoria* & *Characteristica Universalis* | Lulismo seminal, cálculo dos pensamentos e mônadas |
+| **Giordano Bruno** | *De Umbris Idearum* & *Cantus Circaeus* | Lulismo renascentista, mnemônica e combinatória |
+| **Nicolau de Cusa (Cusanus)** | *De Docta Ignorantia* & Códices Lulianos | Coincidência dos opostos e leitor ávido de Lúlio |
+| **Pico della Mirandola** | *Conclusiones nongentae* | Síntese luliana, cabala e dignidade metafísica |
+| **Charles de Bovelles (Bovillus)** | *Liber de Sapiente* | Filosofia do espírito e difusão de Lúlio na França |
+| **Bernhard de Lavinheta** | *Exploratio Artis Lullianae* | Sistematização renascentista da *Ars Magna* |
+| **Thomas Le Myésier** | *Electorium* & *Breviculum* | Discípulo direto de Lúlio e preservador do método |
+| **Ivo Salzinger** | *Opera Omnia de Raimundo Lúlio* (Mainz) | Monumental editor e comentador do corpus luliano |
+| **Sebastian Izquierdo** | *Pharus Scientiarum* | Escolástica tardia e ciência combinatória universal |
+| **Gaspar Schott** | *Organum Mathematicum* | Mecanização matemática e combinatória jesuítica |
+| **Heinrich Cornelius Agrippa** | *In Artem Brevem Raimundi Lullii* | Comentários e síntese luliana no Renascimento |
+| **Pierre Grégoire (Toulouse)** | *Syntaxes Artis Mirabilis* | Enciclopedismo luliano aplicado ao direito e teologia |
+| **Jacques Lefèvre d'Étaples** | Edições Lulianas de Paris | Humanismo escolástico e primeiras impressões lulianas |
+| **Valerius de Valeriis** | *Aureum Sane Opus* | Tradição combinatória e alquímica veneziana |
+
+</details>
 
 ---
 
@@ -68,9 +116,9 @@ Olá! Sou o **Bói** (conhecido como *Puer Reductionis Terminorum*). Uno a **Fil
 
 ### 💌 🌸 *Onde me encontrar / Conexões* 🌸 💌
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF8DA1?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@insndpm)
-[![Instagram](https://img.shields.io/badge/Instagram-F48FB1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulotexugo_fx/)
-[![Medium](https://img.shields.io/badge/Medium-CE93D8?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@paulotexugostdnts)
+[![YouTube](https://img.shields.io/badge/YouTube-FF8DA1?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@paradigmaofc)
+[![Instagram](https://img.shields.io/badge/Instagram-F48FB1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aneldecebolas/)
+[![Medium](https://img.shields.io/badge/Medium-CE93D8?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oluliano)
 [![Email](https://img.shields.io/badge/Email-B39DDB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas25machado@gmail.com)
 
 ---
