@@ -15,7 +15,7 @@
 
 </div>
 
-Olá! Sou o **Nicolas** (*Puer Reductionis Terminorum*). Uno a abstração pura da **Filosofia Escolástica** e a precisão implacável da **Matemática Aplicada** com a engenharia de dados moderna e o mercado financeiro — tudo isso embalado com uma estética bem fofa e aconchegante! (｡♥‿♥｡)
+Olá! Sou o **Bói** (conhecido como *Puer Reductionis Terminorum*). Uno a **Filosofia Escolástica** e a **Matemática Aplicada** com a engenharia de dados moderna — tudo isso embalado com uma estética bem fofa e aconchegante! (｡♥‿♥｡)
 
 * 🏛️ **Filosofia Escolástica & Contemporânea:** Pesquisa profunda em ontologia formal, lógica dos termos, semântica medieval e redução categorial.
 * 🎓 **Matemática Aplicada & Computacional:** Foco em cálculo estocástico, equações diferenciais, otimização e métodos numéricos.
@@ -76,7 +76,7 @@ Olá! Sou o **Nicolas** (*Puer Reductionis Terminorum*). Uno a abstração pura 
 ---
 
 <p align="center">
-  <i>"Omnis reducitur ad unum... mas sempre com um toque kawaii e muito rigor matemático! 🎀✨"</i><br/>
+  <i>"Omnis reducitur ad unum... mas sempre com um toque kawaii e muita matemática! 🎀✨"</i><br/>
   <sub>Feito com ♡ por Nicolas | ฅ(ﾐ・ﻌ・ﾐ)∫</sub>
 </p>
 
