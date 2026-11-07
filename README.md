@@ -2,13 +2,12 @@
 
 # 🌸 ✨ Konnichiwa! Bem-vindo(a) ao meu Recanto ✨ 🌸
 
-```
-  (\(\  
- ( -.-)  ♡  "Puer Reductionis Terminorum"
- o_(")(")   Ens, Ratio & Stochastics in a Kawaii Universe ✧*:･ﾟ
-```
+### ₍ᐢ.ˬ.ᐢ₎ <i>"Puer Reductionis Terminorum"</i> 🎀
+<b>✧*:･ﾟ Ens, Ratio & Stochastics in a Kawaii Universe ✧*:･ﾟ</b>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=620&lines=Graduando+em+Matem%C3%A1tica+Aplicada+e+Computacional;Chartered+Financial+Analyst+(CFA)+%7C+Risco+Quantitativo;Filosofia+Escol%C3%A1stica+%26+Ontologia+Contempor%C3%A2nea;Engenharia+de+Modelos%2C+OCR+%26+Bancos+de+Dados;Hardcore+Quant+%2B+Anime+Aesthetic+%E2%99%A1)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Puer+Reductionis+Terminorum+%E2%9C%A7;Graduando+em+Matem%C3%A1tica+Aplicada+e+Computacional;Chartered+Financial+Analyst+(CFA)+%7C+Risco+Quantitativo;Filosofia+Escol%C3%A1stica+%26+Ontologia+Contempor%C3%A2nea;Engenharia+de+Modelos%2C+OCR+%26+Bancos+de+Dados;Hardcore+Quant+%2B+Anime+Aesthetic+%E2%99%A1)](https://git.io/typing-svg)
 
 ---
 
@@ -57,12 +56,12 @@ Olá! Sou o **Nicolas** (*Puer Reductionis Terminorum*). Uno a abstração pura 
 ### 📊 🌸 *Métricas & Estrelas Mágicas* 🌸 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolasdpm&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=d81b60&text_color=5c5c5c&icon_color=ff69b4" alt="Nicolas's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdpm&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=d81b60&text_color=5c5c5c" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nicolasdpm&show_icons=true&bg_color=00000000&hide_border=true&title_color=FF69B4&text_color=E1BEE7&icon_color=F48FB1" alt="Nicolas's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nicolasdpm&layout=compact&bg_color=00000000&hide_border=true&title_color=FF69B4&text_color=E1BEE7" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasdpm&theme=rose_pine&hide_border=true&background=fff0f5&stroke=ffb6c1&ring=d81b60&fire=ff69b4&currStreakNum=d81b60&sideNums=5c5c5c&sideLabels=5c5c5c" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nicolasdpm&theme=transparent&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&sideNums=E1BEE7&sideLabels=F48FB1&dates=B0BEC5" alt="Streak Stats" />
 </p>
 
 ---
